@@ -1,2 +1,4 @@
-:HL["/transit-site/_next/static/chunks/2x8bpuxc6yc37.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"build","param":null,"prefetchHints":4192,"slots":{"children":{"name":"area","param":{"type":"d","key":"off-road","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"UVqMEH37dBFA9OqQ3CYcc"}
+:HL["/transit-site/_next/static/chunks/30uyiail5xmmy.css","style"]
+:HL["/transit-site/_next/static/media/dm_sans-s.p.3-kxqdo2beoh6.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/transit-site/_next/static/chunks/2mv5j--xfyndc.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"build","param":null,"prefetchHints":4192,"slots":{"children":{"name":"area","param":{"type":"d","key":"off-road","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"GIpr7kHNKSA2E7Qfqc99j"}
